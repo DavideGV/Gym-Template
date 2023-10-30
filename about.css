@@ -1,0 +1,6 @@
+.background{
+    background-image: url(./media/crossfit.jpeg);
+    height: 55vh;
+    background-size: cover;
+    background-position: center;
+}
